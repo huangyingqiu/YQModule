@@ -1,0 +1,6 @@
+framework module YQModule {
+  umbrella header "YQModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
