@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "YQModelView.h"
 
 FOUNDATION_EXPORT double YQModuleVersionNumber;
 FOUNDATION_EXPORT const unsigned char YQModuleVersionString[];

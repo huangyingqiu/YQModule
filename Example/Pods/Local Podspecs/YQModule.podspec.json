@@ -1,19 +1,19 @@
 {
   "name": "YQModule",
-  "version": "0.1.0",
-  "summary": "A short description of YQModule.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.1",
+  "summary": "A Module.",
+  "description": "A CocoaPods Lib Module",
   "homepage": "https://github.com/huangyingqiu/YQModule",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "huangyingqiu": "me@huangyingqiu.com"
+    "huangyingqiu": "huangyingqiu810@gmail.com"
   },
   "source": {
     "git": "https://github.com/huangyingqiu/YQModule.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
