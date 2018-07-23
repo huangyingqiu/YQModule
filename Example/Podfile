@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YQModule_Example' do
+  pod 'YQModule', :path => '../'
+
+  target 'YQModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
